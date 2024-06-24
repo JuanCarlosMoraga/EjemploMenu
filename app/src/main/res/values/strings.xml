@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjemploMenu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saludo">Bienvenido</string>
+    <string name="sumar">Sumar</string>
+    <string name="num1">Ingrese el primer valor</string>
+    <string name="num2">Ingrese el segundo valor</string>
+</resources>
